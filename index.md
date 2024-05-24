@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Awesome Next Generation Life"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  text: "Talk is cheap. Show me the code."
+  tagline: "Software is like sex: it's better when it's free."
   actions:
     - theme: brand
       text: Markdown Examples
